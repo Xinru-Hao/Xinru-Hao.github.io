@@ -3,4 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anatole'
 [params]
-  avatar = "/images/avatar.jpg"
+title = "I'm Xinru Hao"
+author = "Xinru Hao"
+description = "Call me Rosa"
+profilePicture = "/images/avatar.jpg"
