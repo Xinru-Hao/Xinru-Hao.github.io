@@ -1,4 +1,4 @@
-baseURL = 'https://xinru-hao.github.io/Xinru/'
+baseURL = 'https://xinru-hao.github.io/Xinru.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'anatole'
