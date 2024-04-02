@@ -16,3 +16,23 @@ url = "mailto:xinruhao7@gmail.com"
 icon = "fab fa-linkedin"
 title = "Linkedin"
 url = "https://www.linkedin.com/in/xinru-hao-016a43227/"
+
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  identifier = "About"
+  weight = 100
+  url = "/aboutme/"
+
+  [[menu.main]]
+  name = "Project"
+  weight = 200
+  identifier = "Project"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Resume"
+  weight = 300
+  identifier = "Resume"
+  url = "/Resume/"
