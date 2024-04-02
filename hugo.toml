@@ -7,3 +7,12 @@ title = "I'm Xinru Hao"
 author = "Xinru Hao"
 description = "Call me Rosa"
 profilePicture = "/images/avatar.jpg"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:xinruhao7@gmail.com"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/xinru-hao-016a43227/"
