@@ -1,11 +1,11 @@
 baseURL = 'https://xinru-hao.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'anatole'
+theme = 'blist'
+
 [params]
 title = "I'm Xinru Hao"
 author = "Xinru Hao"
-description = "Call me Rosa"
 profilePicture = "/images/avatar.jpg"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
