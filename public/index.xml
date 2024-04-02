@@ -1,22 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Apr 2024 22:44:31 -0700</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First_day</title>
-      <link>https://example.org/life/first_day/</link>
-      <pubDate>Mon, 01 Apr 2024 22:44:31 -0700</pubDate>
-      
-      <guid>https://example.org/life/first_day/</guid>
-      
-        <description>Hi, I&amp;rsquo;m Xinru</description>
-      
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Site</title><link>https://xinru-hao.github.io/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://xinru-hao.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://xinru-hao.github.io/aboutme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinru-hao.github.io/aboutme/</guid><description/></item><item><title/><link>https://xinru-hao.github.io/resume/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://xinru-hao.github.io/resume/</guid><description>EDUCATION Columbia University, M.A. in Statistics, GPA: 3.6/4.0 | Feb 2023
+Relevant Courses: Capital Markets &amp;amp; Investments, Statistical Inference, Statistical Machine Learning, Advanced Data Analysis, Topics in Modern Statistics, Stat Comp &amp;amp; Intro Data Science
+Boston University, B.A. in Mathematics (Statistics Concentration), Minor in Economics, Cum Laude, GPA: 3.71/4.0 | May 2021
+PROFESSIONAL EXPERIENCE GYE Zone LLC (Remote) | Jan 2024 - Present
+Leveraged Python&amp;rsquo;s NLTK and spaCy libraries to perform NLP analysis on a dataset comprising over 2 million student profiles, successfully extracting key essay features that enhanced model accuracy by 17.</description></item></channel></rss>
