@@ -1,8 +1,3 @@
-+++
-title = 'About me'
-draft = false
-+++
-
 
 Hi, I am Xinru Hao, an adept Data Analyst currently shaping the future of data-driven strategies at GYE Zone LLC. My academic journey in statistics was honed at Columbia University, where I completed my Master's degree, and earlier, I laid my mathematical foundation at Boston University with a Bachelor's in Mathematics, concentrating on Statistics, complemented by a minor in Economics.
 
