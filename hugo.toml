@@ -1,38 +1,50 @@
 baseURL = 'https://xinru-hao.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'anatole'
+theme = 'toha'
+license = "MIT"
+licenselink = "https://github.com/hugo-toha/toha/blob/master/LICENSE"
+description = "A simple hugo theme for personal portfolio"
 
-[params]
-title = "I'm Xinru Hao"
-author = "Xinru Hao"
-profilePicture = "/images/avatar.jpg"
-[[params.socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:xinruhao7@gmail.com"
+# The home page of the theme, where the source can be found.
+homepage = "https://github.com/hugo-toha/toha"
 
-[[params.socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://www.linkedin.com/in/xinru-hao-016a43227/"
+# If you have a running demo of the theme.
+demosite = "https://hugo-toha.github.io/"
 
-[menu]
+tags = [
+  "Portfolio",
+  "Blog",
+  "Resume",
+  "Projects",
+  "Gallery",
+  "Multilingual",
+  "Minimalist",
+  "Responsive",
+  "Customizable",
+  "Google analytics",
+  "Disqus",
+  "Bootstrap",
+  "Syntax highlighting",
+]
+features = [
+  "Minimalist Design",
+  "Fully Responsive",
+  "Multiple Language Support",
+  "Carefully Designed Cards",
+  "Experience Timeline",
+  "Achievement Gallery",
+  "Sidebar to Categorize the Posts",
+  "Short Codes",
+  "Google Analytics Support",
+  "Disqus Comment Support",
+]
 
-  [[menu.main]]
-  name = "About"
-  identifier = "About"
-  weight = 100
-  url = "/aboutme/"
+[author]
+  homepage = "https://xinru-hao.github.io/"
+  name = "Xinru Hao"
 
-  [[menu.main]]
-  name = "Project"
-  weight = 200
-  identifier = "Project"
-  url = "/post/"
-
-  [[menu.main]]
-  name = "Resume"
-  weight = 300
-  identifier = "Resume"
-  url = "/Resume/"
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.118.0"
