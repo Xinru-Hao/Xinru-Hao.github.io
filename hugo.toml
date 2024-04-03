@@ -1,18 +1,5 @@
 baseURL = 'https://xinru-hao.github.io/'
 languageCode = 'en-us'
 title = 'Hi, I'm Xinru'
-theme = 'hugo-theme-monochrome'
+theme = 'PaperMod'
 
-enableInlineShortcodes = true
-enableEmoji = true
-enableRobotsTXT = true
-hasCJKLanguage = true
-buildDrafts = false
-buildFuture = false
-buildExpired = false
-
-[params]
-  subtitle = 'The Best Widgets on Earth'
-  [params.contact]
-    email = 'xinruhao7@gmail.com'
-    phone = '+1 9299776752'
