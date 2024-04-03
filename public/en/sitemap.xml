@@ -6,6 +6,8 @@
   </url><url>
     <loc>http://localhost:1313/en/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/series/</loc>
+  </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
   </url>
 </urlset>

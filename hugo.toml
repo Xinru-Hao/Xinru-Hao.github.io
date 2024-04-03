@@ -16,6 +16,41 @@ defaultContentLanguageInSubdir = true
 
 [params]
     auhtor = "Xinru Hao"
+env = "production"
+author = "Sulv"
+defaultTheme = "auto"
+disableThemeToggle = false
+DateFormat = "2006-01-02"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+hideFooter = false
+ShowWordCounts = true
+VisitCount = true
+ShowLastMod = true
+ShowToc = true
+TocOpen = true
+comments = true
+
+  [[params.socialIcons]]
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/xinru-hao-016a43227/"
+
+  [[params.socialIcons]]
+  name = "Email"
+  url = "mailto:xinruhao7@gmail.com"
+
+  [[params.socialIcons]]
+  name = "Phone number"
+  url = "+1 9299776752"
+
+  [[params.socialIcons]]
+  name = "RSS"
+  url = "index.xml"
+
 
 [menus]
 [[menus.main]]
@@ -38,3 +73,50 @@ defaultContentLanguageInSubdir = true
     name = 'Contact'
     pageRef = '/services'
     weight = 50
+
+
+[languages.en]
+languageName = "English"
+weight = 1
+
+  [languages.en.profileMode]
+  enabled = true
+  title = "(〃'▽'〃)"
+  imageUrl = "avatar.jpg"
+  imageWidth = 150
+  imageHeight = 150
+
+    [[languages.en.profileMode.buttons]]
+    name = "🎓Education"
+    url = "posts/tech"
+
+    [[languages.en.profileMode.buttons]]
+    name = "💼Professional Experience"
+    url = "posts/read"
+
+    [[languages.en.profileMode.buttons]]
+    name = "💡Skills"
+    url = "posts/read"
+
+    [[languages.en.profileMode.buttons]]
+    name = "🏖Life"
+    url = "posts/life"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[markup.highlight]
+codeFences = true
+guessSyntax = true
+lineNos = true
+style = "darcula"
+
