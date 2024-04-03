@@ -1,5 +1,5 @@
 baseURL = 'https://xinru-hao.github.io/'
 languageCode = 'en-us'
-title = 'Hi, I'm Xinru'
+title = "Hi, I'm Xinru"
 theme = 'PaperMod'
 
