@@ -3,3 +3,38 @@ languageCode = 'en-us'
 title = "Hi, I'm Xinru"
 theme = 'PaperMod'
 
+enableInlineShortcodes = true
+enableEmoji = true
+enableRobotsTXT = true
+hasCJKLanguage = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+paginate = 15
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[params]
+    auhtor = "Xinru Hao"
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'About me'
+    pageRef = '/products'
+    weight = 20
+[[menus.main]]
+    name = 'Project'
+    pageRef = '/services'
+    weight = 30
+[[menus.main]]
+    name = 'Resume'
+    pageRef = '/services'
+    weight = 40
+[[menus.main]]
+    name = 'Contact'
+    pageRef = '/services'
+    weight = 50
