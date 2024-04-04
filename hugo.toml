@@ -61,7 +61,7 @@ comments = true
     weight = 30
 [[menus.main]]
     name = 'Resume'
-    pageRef = "/resumepdf/Resume1.pdf"
+    url = "/resumepdf/Resume1.pdf"
     weight = 40
 [[menus.main]]
     name = 'Contact'
