@@ -61,7 +61,7 @@ comments = true
     weight = 30
 [[menus.main]]
     name = 'Resume'
-    url = 'https://xinru-hao.github.io/en/resumepdf/Resume.pdf'
+    url = 'https://xinru-hao.github.io/resumepdf/Resume.pdf'
     weight = 40
 [[menus.main]]
     name = 'Contact'
