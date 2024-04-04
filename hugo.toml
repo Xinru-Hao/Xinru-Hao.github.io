@@ -42,8 +42,11 @@ comments = true
   [[params.socialIcons]]
   name = "Email"
   url = "mailto:xinruhao7@gmail.com"
-
-
+  
+  [label]
+  text = "Xinru's Blog"
+  icon = "images/avatar.jpg"
+  iconHeight = 35
 
 
 [menus]
@@ -96,10 +99,6 @@ weight = 1
     name = "🏖Life"
     url = "posts/life"
 
-[label]
-text = "Xinru's Blog"
-icon = "images/avatar.jpg"
-iconHeight = 35
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]

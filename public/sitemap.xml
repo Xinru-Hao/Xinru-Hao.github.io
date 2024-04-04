@@ -4,13 +4,13 @@
   <url>
     <loc>http://localhost:1313/posts/aboutme/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/contact/</loc>
-  </url><url>
-    <loc>http://localhost:1313/posts/project/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/contact/</loc>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/project/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/edu/pro/</loc>
   </url><url>
