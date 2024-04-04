@@ -42,11 +42,11 @@ comments = true
   [[params.socialIcons]]
   name = "Email"
   url = "mailto:xinruhao7@gmail.com"
-  
-  [label]
-  text = "Xinru's Blog"
-  icon = "images/avatar.jpg"
-  iconHeight = 35
+
+[label]
+text = "Xinru's Blog"
+icon = "images/avatar.jpg"
+iconHeight = 35
 
 
 [menus]
