@@ -12,7 +12,7 @@ buildFuture = false
 buildExpired = false
 paginate = 15
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 [params]
     auhtor = "Xinru Hao"
@@ -61,7 +61,7 @@ comments = true
     weight = 30
 [[menus.main]]
     name = 'Resume'
-    url = "/en/resumepdf/Resume.pdf"
+    url = "/resumepdf/Resume.pdf"
     weight = 40
 [[menus.main]]
     name = 'Contact'
