@@ -1,5 +1,0 @@
-+++
-title = "Resume"
-hidemeta = true
-+++
-
