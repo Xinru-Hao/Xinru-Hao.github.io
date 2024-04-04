@@ -1,6 +1,6 @@
 baseURL = 'https://xinru-hao.github.io/'
 languageCode = 'en-us'
-title = "Hi, I'm Xinru"
+title = "Xinru's Blog"
 theme = 'PaperMod'
 
 enableInlineShortcodes = true
@@ -43,13 +43,7 @@ comments = true
   name = "Email"
   url = "mailto:xinruhao7@gmail.com"
 
-  [[params.socialIcons]]
-  name = "Phone number"
-  url = "+1 9299776752"
 
-  [[params.socialIcons]]
-  name = "RSS"
-  url = "index.xml"
 
 
 [menus]
@@ -67,7 +61,7 @@ comments = true
     weight = 30
 [[menus.main]]
     name = 'Resume'
-    pageRef = '/services'
+    pageRef = 'static/resumepdf/Hao.Xinru.CV.pdf'
     weight = 40
 [[menus.main]]
     name = 'Contact'
@@ -81,8 +75,8 @@ weight = 1
 
   [languages.en.profileMode]
   enabled = true
-  title = "(〃'▽'〃)"
-  imageUrl = "avatar.jpg"
+  title = "Hi, I'm Xinru (〃'▽'〃)"
+  imageUrl = "static/images/avatar.jpg"
   imageWidth = 150
   imageHeight = 150
 
