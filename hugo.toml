@@ -60,7 +60,7 @@ iconHeight = 35
     weight = 20
 [[menus.main]]
     name = 'Project'
-    pageRef = '/services'
+    url = 'https://docs.google.com/presentation/d/1xGAqL2V1VRL202wlZEcV4aWwwmzvnvLYBtAXkcUV5o8/edit#slide=id.p'
     weight = 30
 [[menus.main]]
     name = 'Resume'
